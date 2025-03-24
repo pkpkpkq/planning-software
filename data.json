@@ -1,8 +1,9 @@
 {
-    "name":"test",
-    "urgency":"yellow",
-    "importance":"blue",
-    "deadline":"none",
-    "type":"short_term",
-    "description":"This is a test task"
+    "test task":{
+        "urgency":3,
+        "importance":1,
+        "deadline":"none",
+        "type":"short_term",
+        "description":"This is a test task"
+    }
 }
