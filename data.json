@@ -1,9 +1,16 @@
 {
-    "test task":{
-        "urgency":3,
-        "importance":1,
-        "deadline":"none",
-        "type":"short_term",
-        "description":"This is a test task"
+    "test task": {
+        "urgency": 3,
+        "importance": 1,
+        "deadline": "none",
+        "type": "short_term",
+        "description": "This is a test task"
+    },
+    "test task 2": {
+        "urgency": 2,
+        "importance": 5,
+        "deadline": "none",
+        "type": "short_term",
+        "description": "This is a test task"
     }
 }
